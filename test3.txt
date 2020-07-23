@@ -1,0 +1,2 @@
+This is a new file that I am creating on my local computer. 
+Next step would be to commit these changes to my local repository and then push to my remote repository

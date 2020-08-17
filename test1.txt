@@ -1,3 +1,4 @@
 text1. 
 Modifying this again. 
 This file has been edited
+-M This message helps remember how to use Git and Github
